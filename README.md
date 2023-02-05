@@ -12,7 +12,7 @@ screening of applicants and lessen the likelihood of a loan being "charged-off" 
 - Data Dictionary - definitions of all fields - xlsx
 - loan - data pertaining to previous and current loans - csv
 - Notebook - EDA code and conclusions - ipynb
-- Powerpoint - Presentation of conclusions - pptx
+- Powerpoint - Presentation of conclusions - pdf
 
 
 
