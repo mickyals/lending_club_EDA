@@ -12,5 +12,10 @@ screening of applicants and lessen the likelihood of a loan being "charged-off" 
 - Data Dictionary - definitions of all fields - xlsx
 - loan - data pertaining to previous and current loans - csv
 - Notebook - EDA code and conclusions - ipynb
-- Powerpoint - Presentation of conclusions - ppt
+- Powerpoint - Presentation of conclusions - pptx
+
+
+
+<p> This case study EDA was conducted and posted by Mickell Als as a part of the IIIT-Banglore Executive Postgraduate Diploma in Machine Learning and Artificial Intelligence program
+</p>
 
